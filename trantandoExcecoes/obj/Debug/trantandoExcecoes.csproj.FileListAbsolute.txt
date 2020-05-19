@@ -1,0 +1,6 @@
+c:\users\administrador\documents\visual studio 2015\Projects\trantandoExcecoes\trantandoExcecoes\bin\Debug\trantandoExcecoes.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\trantandoExcecoes\trantandoExcecoes\bin\Debug\trantandoExcecoes.exe
+c:\users\administrador\documents\visual studio 2015\Projects\trantandoExcecoes\trantandoExcecoes\bin\Debug\trantandoExcecoes.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\trantandoExcecoes\trantandoExcecoes\obj\Debug\trantandoExcecoes.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\trantandoExcecoes\trantandoExcecoes\obj\Debug\trantandoExcecoes.exe
+c:\users\administrador\documents\visual studio 2015\Projects\trantandoExcecoes\trantandoExcecoes\obj\Debug\trantandoExcecoes.pdb
